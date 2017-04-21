@@ -7,7 +7,7 @@ import pandas as pd
 
 
 
-freader = pd.read_csv('Data.csv')
+freader = pd.read_csv('C:\Program Files (x86)\Jenkins\workspace\Dummy\data.csv')
 
 
 # Weights associated for each event
