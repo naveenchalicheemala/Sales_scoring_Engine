@@ -7,7 +7,7 @@ import pandas as pd
 
 
 
-freader = pd.read_csv('data.csv')
+freader = pd.read_csv('Data.csv')
 
 
 # Weights associated for each event
